@@ -1,3 +1,4 @@
+*.so
 *.swp
 *.txt
 cpp_limits/main
